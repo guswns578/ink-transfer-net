@@ -1,0 +1,18 @@
+# data, checkpoints, results (not distributed)
+data/
+outputs/
+*.pt
+*.pth
+*.safetensors
+*.png
+*.jpg
+*.jpeg
+
+# python
+__pycache__/
+*.pyc
+.venv*/
+
+# os
+Thumbs.db
+.DS_Store
