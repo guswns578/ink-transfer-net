@@ -141,6 +141,8 @@ docs/
   data_audit.md          리터치 전후 대응 데이터 감사
 ```
 
+> 포트폴리오 공개를 위해 포맷(black)과 쓰지 않는 import만 정리했고 로직은 바꾸지 않았습니다. 정리 전 코드는 [`original-snapshot`](https://github.com/guswns578/ink-transfer-net/tree/original-snapshot) 태그에 있습니다.
+
 ## 역할
 
 산학협력 과제의 후속 연구로 문제 정의, 모델 설계, 학습·진단 실험, 데이터 감사까지 혼자 수행했습니다. 구현에는 AI 코딩 도구를 적극 활용했고, 실험 설계·판단 기준·결과 해석은 직접 수립했습니다.
